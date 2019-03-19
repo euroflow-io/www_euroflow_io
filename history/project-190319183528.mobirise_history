@@ -37,7 +37,9 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "сanonical-url": ""
+    "сanonical-url": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/Adnan/Desktop/Websites/EuroFlow/www_euroflow_io"
   },
   "pages": {
     "index.html": {
