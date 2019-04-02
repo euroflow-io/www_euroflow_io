@@ -1,4 +1,4 @@
-:2026 {
+:2028 {
     bind 0.0.0.0
     gzip
     root /opt/www_euroflow_io/
