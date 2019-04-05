@@ -1929,11 +1929,6 @@ body {
     margin: 0 0.5rem;
   }
 }
-.cid-rm6KMKjZQs {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/tf-bg-1-2000x1125.jpg");
-}
 .cid-rm6L1QTrRJ {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2011,4 +2006,9 @@ body {
 }
 .cid-rm6L1QTrRJ .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-rm6KMKjZQs {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/tf-bg-1-2000x1125.jpg");
 }
